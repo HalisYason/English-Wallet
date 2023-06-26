@@ -1,0 +1,25 @@
+
+
+# DLL files
+__pycache__/
+
+# kurulum la ilgili dosyalar
+build/
+dist/
+*.spec
+
+
+
+# not
+text/
+
+
+# örnek birkaç kod
+ttt/
+p.py 
+
+
+
+
+
+

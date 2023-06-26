@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>exe_logo.ico</file>
+    <file>delete.png</file>
+    <file>logo (2).png</file>
+    <file>edit.png</file>
+    <file>add.png</file>
+    <file>examp.png</file>
+    <file>close.png</file>
+    <file>home (1).png</file>
+    <file>info.png</file>
+    <file>logo.png</file>
+    <file>menu (2).png</file>
+    <file>search.png</file>
+    <file>add.png</file>
+    <file>close.png</file>
+    <file>edit.png</file>
+    <file>examp.png</file>
+    <file>home (1).png</file>
+    <file>info.png</file>
+    <file>logo.png</file>
+    <file>menu (2).png</file>
+    <file>search.png</file>
+    <file>setting.png</file>
+    <file>user (2).png</file>
+    <file>setting.png</file>
+    <file>user (2).png</file>
+  </qresource>
+</RCC>
