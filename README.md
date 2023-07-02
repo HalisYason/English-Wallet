@@ -27,12 +27,13 @@ Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cüml
    ```shell
    npm start
 ## Kullanım
-  1. Uygulama başladığında, ana ekran karşınıza gelecektir.
-  2. anasayfa, oyna ve düzenle sayfalarına erişebilirsiniz.
-  3. "oyna" düğmesine tıklayarak  kelime ve cümle oyunlarını göreceksiniz oyna dediğinizde 10 soruluk test başlar. Türkçe karşılığını düşünün ve "Cevapla" düğmesine tıklayarak cevabınızı kontrol edin.
-  4. Başarı istatistiklerinizi takip etmek için "anasayfa" sayfasına gidin.
-  5. "anasayfa" sayfasında kullanıcı bilgilerinizi düzenleyebilir oyun istatistiklerini görebilir veya ayarlar kısmından veri silme işlemleri yapabilirsiniz.
-  6. "düzenle" sayfasından kelime ve cümle çiftlerini görüntüleyebilir ekleme, düzenleme ve silme işlemleri yapabilirsiniz.
+  -Uygulama başladığında, ana ekran karşınıza gelecektir.
+  - anasayfa, oyna ve düzenle sayfalarına erişebilirsiniz.
+  - "oyna" düğmesine tıklayarak  kelime ve cümle oyunlarını göreceksiniz oyna dediğinizde 10 soruluk test başlar. Türkçe karşılığını düşünün ve "Cevapla" düğmesine tıklayarak cevabınızı kontrol edin.
+  - Başarı istatistiklerinizi takip etmek için "anasayfa" sayfasına gidin.
+  -"anasayfa" sayfasında kullanıcı bilgilerinizi düzenleyebilir oyun istatistiklerini görebilir veya ayarlar kısmından veri silme işlemleri yapabilirsiniz.
+  - "düzenle" sayfasından kelime ve cümle çiftlerini görüntüleyebilir ekleme, düzenleme ve silme işlemleri yapabilirsiniz.
+    
 ## Katkıda Bulunma
   
   1.Bu projeyi fork edin.
