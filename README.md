@@ -36,6 +36,8 @@ Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cüml
 ## Katkıda Bulunma
   
   1.Bu projeyi fork edin.
+
+    
   
   2. yeni bir dal(branch) oluşturun
 
