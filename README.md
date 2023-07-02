@@ -1,6 +1,6 @@
 # English-Wallet     
 
-Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cümle çiftleri üzerinden sorulan sorulara cevap verebilir ve başarı istatistiklerini tutabilirler. Ayrıca kullanıcılar, kelime çiftlerini ekleyebilir, düzenleyebilir ve silebilir. Kullanıcı profillerini de düzenleyebilirler.
+Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cümle çiftleri üzerinden sorulan sorulara cevap verebilir ve başarı istatistiklerini tutabilirler. Ayrıca kullanıcılar, kelime ve cümle çiftlerini ekleyebilir, düzenleyebilir ve silebilir. Kullanıcı profillerini de düzenleyebilirler.
  Zorlandıkları kelime veya cümle yapıları üzerinde çalışmak, tekrar etmek için olanak tanır. 
 
 ## Özellikler
