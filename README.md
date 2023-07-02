@@ -15,7 +15,7 @@ Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cüml
 
 1. Bu repo'yu klonlayın:
    ```shell
-   git clone https://github.com/KULLANICI_ADINIZ/ING-TURK-Kelime-Ogrenme-Uygulamasi.git
+   git clone https://github.com/52h44a34l/English-Wallet.git
    
 2. proje klasörüne gidin
    ```shell
