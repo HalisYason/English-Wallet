@@ -27,7 +27,7 @@ Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cüml
    ```shell
    npm start
 ## Kullanım
-  -Uygulama başladığında, ana ekran karşınıza gelecektir.
+  - Uygulama başladığında, ana ekran karşınıza gelecektir.
   - anasayfa, oyna ve düzenle sayfalarına erişebilirsiniz.
   - "oyna" düğmesine tıklayarak  kelime ve cümle oyunlarını göreceksiniz oyna dediğinizde 10 soruluk test başlar. Türkçe karşılığını düşünün ve "Cevapla" düğmesine tıklayarak cevabınızı kontrol edin.
   - Başarı istatistiklerinizi takip etmek için "anasayfa" sayfasına gidin.
