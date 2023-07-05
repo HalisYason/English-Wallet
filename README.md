@@ -6,7 +6,7 @@ Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cüml
 ## Özellikler
 
 - Kullanıcılar, İngilizce-Türkçe kelime ve cümle çiftlerini ekleyebilir, düzenleyebilir ve silebilir.
-- Kullanıcılar, kelime ve cümle çiftleri üzerinden sorular sorabilir ve cevap alabilir.
+- Kullanıcılara db deki veriler üzerinden sorular sorulur.
 - Uygulama, kullanıcıların başarı istatistiklerini takip eder ve gösterir.
 - Kullanıcılar, profil bilgilerini düzenleyebilir.
 - Arayüz, kullanıcı dostu ve kolay kullanılabilir bir şekilde tasarlanmıştır.
