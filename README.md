@@ -61,5 +61,6 @@ Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cüml
 
 **Eğer herhangi bir sorunuz veya öneriniz varsa, lütfen [GitHub üzerinden bir sorun (issue)](https://github.com/52h44a34l/English-Wallet/issues) açın.**
 
+#
 
 
