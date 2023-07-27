@@ -1,4 +1,4 @@
-# English-Wallet     
+# **English-Wallet**     
 
 Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cümle çiftleri üzerinden sorulan sorulara cevap verebilir ve başarı istatistiklerini tutabilirler. Ayrıca kullanıcılar, kelime ve cümle çiftlerini ekleyebilir, düzenleyebilir ve silebilir. Kullanıcı profillerini de düzenleyebilirler.
  Zorlandıkları kelime veya cümle yapıları üzerinde çalışmak, tekrar etmek için olanak tanır. 
@@ -59,7 +59,8 @@ Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cüml
 
 ## İletişim
 
-Eğer herhangi bir sorunuz veya öneriniz varsa, lütfen [GitHub üzerinden bir sorun (issue)](https://github.com/52h44a34l/English-Wallet/issues) açın.
+**Eğer herhangi bir sorunuz veya öneriniz varsa, lütfen [GitHub üzerinden bir sorun (issue)](https://github.com/52h44a34l/English-Wallet/issues) açın.**
 
+#
 
 
