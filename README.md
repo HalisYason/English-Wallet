@@ -1,54 +1,52 @@
 # **English-Wallet**     
 
-Bu masaüstü uygulaması, kullanıcıların İngilizce-Türkçe kelime ve cümle çiftleri üzerinden sorulan sorulara cevap verebilir ve başarı istatistiklerini tutabilirler. Ayrıca kullanıcılar, kelime ve cümle çiftlerini ekleyebilir, düzenleyebilir ve silebilir. Kullanıcı profillerini de düzenleyebilirler.
- Zorlandıkları kelime veya cümle yapıları üzerinde çalışmak, tekrar etmek için olanak tanır. 
+Turkish English-Turkish word and sentence pairs of this desktop application, users can answer the questions asked and keep the success statistics. In addition, users can add, edit and delete pairs of words and sentences. They can also edit user profiles. It allows you to repeat, work on word or sentence structures that are difficult to repeat.
 
-## Özellikler
+## Features
 
-- Kullanıcılar, İngilizce-Türkçe kelime ve cümle çiftlerini ekleyebilir, düzenleyebilir ve silebilir.
-- Kullanıcılara db deki veriler üzerinden sorular sorulur.
-- Uygulama, kullanıcıların başarı istatistiklerini takip eder ve gösterir.
-- Kullanıcılar, profil bilgilerini düzenleyebilir.
-- Arayüz, kullanıcı dostu ve kolay kullanılabilir bir şekilde tasarlanmıştır.
+ Turkish English-Users can add, edit and delete English-Turkish word and sentence pairs.
+- Users are asked questions over the data in the db.
+- The application tracks and shows users' success statistics.
+- Users can edit their profile information.
+- The interface is designed in a user-friendly and easy-to-use way.
 
 ## Kurulum
 
-1. Bu repo'yu klonlayın:
+1. Clone this repo:
    ```shell
    git clone https://github.com/52h44a34l/English-Wallet.git
    
-2. proje klasörüne gidin
+2. go to the project folder
    ```shell
    cd english_wallet
-3. gerekli bağımlılıkları yükleyin
+3. install the necessary dependencies
    ```shell
    npm install
-4. uygulamayı başlatın
+4. launch the application
    ```shell
    npm start
-## Kullanım
-  - Uygulama başladığında, ana ekran karşınıza gelecektir.
-  - anasayfa, oyna ve düzenle sayfalarına erişebilirsiniz.
-  - "oyna" düğmesine tıklayarak  kelime ve cümle oyunlarını göreceksiniz oyna dediğinizde 10 soruluk test başlar. Türkçe karşılığını düşünün ve "Cevapla" düğmesine tıklayarak cevabınızı kontrol edin.
-  - Başarı istatistiklerinizi takip etmek için "anasayfa" sayfasına gidin.
-  -"anasayfa" sayfasında kullanıcı bilgilerinizi düzenleyebilir oyun istatistiklerini görebilir veya ayarlar kısmından veri silme işlemleri yapabilirsiniz.
-  - "düzenle" sayfasından kelime ve cümle çiftlerini görüntüleyebilir ekleme, düzenleme ve silme işlemleri yapabilirsiniz.
+## Utilization
+  - When the application starts, the main screen will appear in front of you.
+  - you can access the homepage, play and edit pages.
+  - by clicking on the "play" button, you will see word and sentence games when you say play, the 10-question test starts. Think about the Turkish equivalent and check your answer by clicking on the "Reply" button.
+  - Go to the "homepage" page to keep track of your success statistics.
+  -on the "homepage" page, you can edit your user information, view game statistics, or delete data from the settings section.
+  - you can view pairs of words and sentences from the "edit" page and make additions, edits and deletions.
     
-## Katkıda Bulunma
+## to contribute
   
-  1.Bu projeyi fork edin.
-
+1.Fork this project.
     
   
-  2. yeni bir dal(branch) oluşturun
+  2. create a new branch
 
     git checkout -b ozellik/düzenleme
     
-  3. yaptığınız değişiklikleri commit edin
-
+commit the changes you have made
+    
     git commit -am 'Yeni bir özellik ekle'
 
-  4. dalınızı ana(master) dala birleştirin
+  5. dalınızı ana(master) dala birleştirin
 
     git pull origin master
 
