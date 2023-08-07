@@ -42,22 +42,21 @@ Turkish English-Turkish word and sentence pairs of this desktop application, use
 
     git checkout -b ozellik/düzenleme
     
-commit the changes you have made
+   3. commit the changes you have made
     
     git commit -am 'Yeni bir özellik ekle'
 
-  5. dalınızı ana(master) dala birleştirin
-
+   4. combine your branch into the main(master) branch
     git pull origin master
 
-  5. forkladığınız repo'ya dalınızı push edin
+  5. push your branch to the repo you have forked
 
     git push origin ozellik/düzenleme
 
 
-## İletişim
+## Contact
 
-**Eğer herhangi bir sorunuz veya öneriniz varsa, lütfen [GitHub üzerinden bir sorun (issue)](https://github.com/52h44a34l/English-Wallet/issues) açın.**
+**If you have any questions or suggestions, please [a problem via GitHub (issue)](https://github.com/52h44a34l/English-Wallet/issues ) open.**
 
 #
 
