@@ -44,7 +44,7 @@ Turkish English-Turkish word and sentence pairs of this desktop application, use
     
    3. commit the changes you have made
     
-    git commit -am 'Yeni bir özellik ekle'
+    git commit -m ''
 
    4. combine your branch into the main(master) branch
     git pull origin master
