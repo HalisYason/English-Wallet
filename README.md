@@ -12,7 +12,7 @@ Turkish English-Turkish word and sentence pairs of this desktop application, use
 
 
 #
-<img src="images/e6.png" alt="Resim Açıklaması" width="730">
+<img src="images/e4.png" alt="Resim Açıklaması" width="730">
 
 
 ## Kurulum
