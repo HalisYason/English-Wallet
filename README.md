@@ -10,6 +10,11 @@ Turkish English-Turkish word and sentence pairs of this desktop application, use
 - Users can edit their profile information.
 - The interface is designed in a user-friendly and easy-to-use way.
 
+
+#
+<img src="images/e6.png" alt="Resim Açıklaması" width="730">
+
+
 ## Kurulum
 
 1. Clone this repo:
@@ -32,7 +37,23 @@ Turkish English-Turkish word and sentence pairs of this desktop application, use
   - Go to the "homepage" page to keep track of your success statistics.
   -on the "homepage" page, you can edit your user information, view game statistics, or delete data from the settings section.
   - you can view pairs of words and sentences from the "edit" page and make additions, edits and deletions.
-    
+
+
+#
+<table>
+  <tr>
+    <td>
+      <img src="images/e6.png" alt="Resim 1" width="650">
+    </td>
+    <td>
+      <img src="images/e5.png" alt="Resim 2" width="650">
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## to contribute
   
 1.Fork this project.
@@ -47,6 +68,7 @@ Turkish English-Turkish word and sentence pairs of this desktop application, use
     git commit -m ''
 
    4. combine your branch into the main(master) branch
+ 
     git pull origin master
 
   5. push your branch to the repo you have forked
