@@ -15,21 +15,6 @@ Turkish English-Turkish word and sentence pairs of this desktop application, use
 <img src="images/e4.png" alt="Resim Açıklaması" width="730">
 
 
-## Kurulum
-
-1. Clone this repo:
-   ```shell
-   git clone https://github.com/52h44a34l/English-Wallet.git
-   
-2. go to the project folder
-   ```shell
-   cd english_wallet
-3. install the necessary dependencies
-   ```shell
-   npm install
-4. launch the application
-   ```shell
-   npm start
 ## Utilization
   - When the application starts, the main screen will appear in front of you.
   - you can access the homepage, play and edit pages.
@@ -52,28 +37,7 @@ Turkish English-Turkish word and sentence pairs of this desktop application, use
 </table>
 
 
-
-
-## to contribute
-  
-1.Fork this project.
-    
-  
-  2. create a new branch
-
-    git checkout -b ozellik/düzenleme
-    
-   3. commit the changes you have made
-    
-    git commit -m ''
-
-   4. combine your branch into the main(master) branch
- 
-    git pull origin master
-
-  5. push your branch to the repo you have forked
-
-    git push origin ozellik/düzenleme
+it's been a project that I've really been working on with love, if there's anything you want me to add, please let me know it gives me excitement to be in touch with you on such issues.  :)
 
 
 ## Contact
